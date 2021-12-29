@@ -22,13 +22,17 @@ But how to reach the equilibrium?
 
 # Modeling compliance and enforcement
 
-## (1) True believer: a person honestly believes in their behavior
+## (1) True believer: 
+a person honestly believes in their behavior
  
-## (2) False believer: a person honestly does not believe in their behavior
+## (2) False believer:
+a person honestly does not believe in their behavior
 
-## (3) True enforcer: also in a true believer
+## (3) True enforcer: 
+also in a true believer
 
-## (4) False enforcer: also in a false believer
+## (4) False enforcer:
+also in a false believer
 
 <img width="336" alt="image" src="https://user-images.githubusercontent.com/66442855/147632761-94821da7-a55a-4898-be0b-14b4c73371e9.png">
 
